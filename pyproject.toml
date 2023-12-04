@@ -16,7 +16,7 @@ dependencies = [
   "tensorflow >= 2.9.0, < 2.10.0",
   "tf-settransformer >= 0.2.5",
   "tf-utilities >= 0.1.8",
-  "wandb >= 0.14.0"
+  "wandb >= 0.14.0, <= 0.15.10"
 ]
 
 [project.urls]
