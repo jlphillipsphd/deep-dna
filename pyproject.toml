@@ -1,5 +1,5 @@
 [project]
-name = "deep-dna"
+name = "deepdna"
 version = "0.0.1"
 authors = [
   { name="David W. Ludwig II", email="davidludwigii@gmail.com" }
